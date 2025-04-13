@@ -39,7 +39,7 @@ ocr_ctgd_demo/
 ## 🚀 CÁCH CHẠY DEMO (SAU KHI TẢI VỀ)
 ```bash
 pip install -r requirements.txt
-python main.py
+python main.py (Hoặc py main.py trên một vài phiên bản)
 ```
 
 File kết quả nằm trong: `output/ctgd_output_demo.xlsx`
@@ -64,5 +64,5 @@ Template, corrections, dictionary... sẽ chia theo từng ngành trong `data/`.
 
 ---
 
-*Được phát triển bởi Trì Ca & Team Dev GPT – dưới sự chỉ đạo chiến lược của CEO Tống Thư Hàng.*
+*Được phát triển bởi Phạm Trung Hiếu (hyakki.ub@gmail.com) & Team Dev GPT*
 
